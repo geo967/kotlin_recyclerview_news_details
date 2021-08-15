@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView - Kotlin</string>
+    <string name="this_is_the_first_news">this is the first news</string>
+</resources>
